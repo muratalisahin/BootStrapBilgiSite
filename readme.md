@@ -1,8 +1,8 @@
 # BootStrap Örnek Sitedir
-# Bicimlerdirme Dili olarak  Html/CSS/BootStrap Kullanılmıştır
-# Görsel Arayüzü  Gif olarak eklenmiştir
-# Sade Bir tasarıma sahiptir
-# Görseller Klasörü mevcuttur
+<h2> # Bicimlerdirme Dili olarak  Html/CSS/BootStrap Kullanılmıştır</h2>
+<h3> # Görsel Arayüzü  Gif olarak eklenmiştir<h3> 
+<h3> # Sade Bir tasarıma sahiptir<h3> 
+<h3> # Görseller Klasörü mevcuttur <h3> 
 
 
 
