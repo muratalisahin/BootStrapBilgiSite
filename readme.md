@@ -1,2 +1,1 @@
-# First App
-![alt text](BootstrapSite-2.gif)
+![alt text](<gif görsel-1.gif>)
