@@ -1,6 +1,6 @@
-# Bicimlerdirme Dili olarak Html/CSS/BootStrap Kullanılmıştır
-# Görsel Arayüzü Gif olarak eklenmiştir
-# Sade Bir tasarıma sahiptir
-# Görseller Klasörü mevcuttur
+ <h2># Bicimlerdirme Dili olarak Html/CSS/BootStrap Kullanılmıştır</h2>
+<h3># Görsel Arayüzü Gif olarak eklenmiştir<h3>
+<h4># Sade Bir tasarıma sahiptir<h4>
+<h4># Görseller Klasörü mevcuttur<h4>
 <br><br>
 ![alt text](<gif görsel-1.gif>)
