@@ -19,6 +19,6 @@ Acordion yapı
  ✧Bootstrap
 </ul>
 
- <h3>EKRAN GÖRÜNTÜSÜ </h3>
+ <h3>❃EKRAN GÖRÜNTÜSÜ </h3>
  
 ![alt text](<gif görsel-1.gif>)
