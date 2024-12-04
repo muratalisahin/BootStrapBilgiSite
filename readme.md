@@ -16,7 +16,6 @@ Acordion yapı
  ✧Html
   
  ✧Css
- 
  ✧Bootstrap
 </ul>
 
