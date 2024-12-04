@@ -20,4 +20,5 @@ Acordion yapı
 </ul>
 
  <h3>EKRAN GÖRÜNTÜSÜ </h3>
+ 
 ![alt text](<gif görsel-1.gif>)
