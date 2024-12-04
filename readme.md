@@ -11,9 +11,12 @@ Dinamik navbar
 Carousel yapısı
 Acordion yapı
 </ul>
-<h3>>⚝ Kullanılan Teknolojiler ⚝ </h3
+<h3>⚝ Kullanılan Teknolojiler ⚝ </h3>
+ <ul>
  ✧Html
  ✧Css
  ✧Bootstrap
+</ul>
+
  
 ![alt text](<gif görsel-1.gif>)
