@@ -11,4 +11,5 @@ Dinamik navbar
 Carousel yapısı
 Acordion yapı
 </ul>
+ 
 ![alt text](<gif görsel-1.gif>)
