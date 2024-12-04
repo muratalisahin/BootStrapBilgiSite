@@ -14,7 +14,9 @@ Acordion yapı
 <h3>⚝ Kullanılan Teknolojiler ⚝ </h3>
  <ul>
  ✧Html
+  
  ✧Css
+ 
  ✧Bootstrap
 </ul>
 
